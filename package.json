@@ -1,0 +1,14 @@
+{
+  "name": "xydrogenai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "XYDROGEN AI — an evidence-aware educational site about mitochondria and molecular hydrogen",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo \"Static site: no build step required.\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
